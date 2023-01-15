@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zko0.github.io/</id>
+    <id>http://localhost:4000</id>
     <title>zko0</title>
-    <updated>2023-01-15T08:13:36.228Z</updated>
+    <updated>2023-01-15T08:15:16.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zko0.github.io/"/>
-    <link rel="self" href="https://zko0.github.io/atom.xml"/>
-    <logo>https://zko0.github.io/images/avatar.png</logo>
-    <icon>https://zko0.github.io/favicon.ico</icon>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2023, zko0</rights>
     <entry>
         <title type="html"><![CDATA[小妹、过年与工作]]></title>
-        <id>https://zko0.github.io/xiao-mei-guo-nian-yu-gong-zuo/</id>
-        <link href="https://zko0.github.io/xiao-mei-guo-nian-yu-gong-zuo/">
+        <id>http://localhost:4000/xiao-mei-guo-nian-yu-gong-zuo/</id>
+        <link href="http://localhost:4000/xiao-mei-guo-nian-yu-gong-zuo/">
         </link>
         <updated>2023-01-15T07:49:28.000Z</updated>
         <summary type="html"><![CDATA[<p>临近过年了，在公司实习了两个月的时间。从去年9月份秋招至今，技术提升一直是断断续续的。秋招让我认识到了自己的定位，在技术这条路上还有很长的路要走。初入商业项目，难以描述，和我的理想有些偏差，个人还是更喜欢富有挑战，有技术的工作。如果短期难以通过工作进步，那就需要在业余时间内提升自己了。这段时间焦虑，在社区中看到了很多人，有高学历的大佬，也有普通学历靠努力逆袭的牛人。我想不应该再抱怨环境了，打铁还需自身硬，拥有实力才能拥有把我机会的权力。<br>
@@ -22,7 +22,7 @@
 下一个目标是跳到一家互联网公司中，进入互联网的开发环境中，目前仍在努力；</p>
 <!-- more -->
 <p>从公司离开，凌晨4点离开上海前往小妹家，去她家过年。宿迁在那天下雪了，2023春节前，那是我第一次看雪。<br>
-下次再见小妹，我想就是步入工作了，后面我怕也没有这样的机会，怕是最后一次和她一起过年了。<img src="https://zko0.github.io//post-images/1673770345219.jpg" alt="" loading="lazy"></p>
+下次再见小妹，我想就是步入工作了，后面我怕也没有这样的机会，怕是最后一次和她一起过年了。<img src="http://localhost:4000/post-images/1673770345219.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
