@@ -2,13 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zko0.github.io/</id>
     <title>zko0</title>
-    <updated>2023-01-15T13:55:04.095Z</updated>
+    <updated>2023-01-23T15:09:40.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zko0.github.io/"/>
     <link rel="self" href="https://zko0.github.io/atom.xml"/>
     <logo>https://zko0.github.io/images/avatar.png</logo>
     <icon>https://zko0.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, zko0</rights>
+    <entry>
+        <title type="html"><![CDATA[半团圆、回家与同学]]></title>
+        <id>https://zko0.github.io/u4cWmJyUd/</id>
+        <link href="https://zko0.github.io/u4cWmJyUd/">
+        </link>
+        <updated>2023-01-23T14:18:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>2023年春节，在不和谐与一小点幸福感中度过了。<br>
+23号回家，和家里的亲戚团聚在一起吃饭。父母没有回家，所以这顿团圆饭只能算上半团圆，不过这也是这么多年来第一次亲戚凑的这么整齐的了。这次吃饭也是我第一次真正喝白酒，说实话不太喜欢，每喝下一口都感觉到辣嘴和难受，但是很快乐。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2023年春节，在不和谐与一小点幸福感中度过了。<br>
+23号回家，和家里的亲戚团聚在一起吃饭。父母没有回家，所以这顿团圆饭只能算上半团圆，不过这也是这么多年来第一次亲戚凑的这么整齐的了。这次吃饭也是我第一次真正喝白酒，说实话不太喜欢，每喝下一口都感觉到辣嘴和难受，但是很快乐。</p>
+<!-- more -->
+<p>和表哥聊了会天，多年不见，才知道他已经从银行跑路去了一家外企。34,35的人看起来居然比我还要年轻，不得不佩服环境对一个人的影响力。整个人看起来乐呵呵的，精神饱满，我俩从养老保险聊到小妹的方向，又聊到未来的女朋友和工作的方向。</p>
+<!-- more -->
+<p>同学找到了实习，在焦虑和压力的胁迫下准备选择妥协了。结合我自身的看法，我劝说他不要害怕尽管努力就好了。表哥就是努力出身的一个人，可能努力不一定能到达理想的高度。但是我认为努力一定会让人变得更好。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小妹、过年与工作]]></title>
         <id>https://zko0.github.io/xiao-mei-guo-nian-yu-gong-zuo/</id>
