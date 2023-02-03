@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://zko0.github.io/</id>
     <title>zko0</title>
-    <updated>2023-02-03T15:41:26.869Z</updated>
+    <updated>2023-02-03T15:48:18.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <link rel="alternate" href="https://zko0.github.io/"/>
+    <link rel="self" href="https://zko0.github.io/atom.xml"/>
+    <logo>https://zko0.github.io/images/avatar.png</logo>
+    <icon>https://zko0.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, zko0</rights>
     <entry>
         <title type="html"><![CDATA[半团圆、回家与同学]]></title>
-        <id>http://localhost:4000/u4cWmJyUd/</id>
-        <link href="http://localhost:4000/u4cWmJyUd/">
+        <id>https://zko0.github.io/u4cWmJyUd/</id>
+        <link href="https://zko0.github.io/u4cWmJyUd/">
         </link>
         <updated>2023-01-23T14:18:40.000Z</updated>
         <summary type="html"><![CDATA[<p>2023年春节，在不和谐与一小点幸福感中度过了。<br>
@@ -24,8 +24,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[小妹、过年与工作]]></title>
-        <id>http://localhost:4000/xiao-mei-guo-nian-yu-gong-zuo/</id>
-        <link href="http://localhost:4000/xiao-mei-guo-nian-yu-gong-zuo/">
+        <id>https://zko0.github.io/xiao-mei-guo-nian-yu-gong-zuo/</id>
+        <link href="https://zko0.github.io/xiao-mei-guo-nian-yu-gong-zuo/">
         </link>
         <updated>2023-01-15T07:49:28.000Z</updated>
         <summary type="html"><![CDATA[<p>临近过年了，在公司实习了两个月的时间。从去年9月份秋招至今，技术提升一直是断断续续的。秋招让我认识到了自己的定位，在技术这条路上还有很长的路要走。初入商业项目，难以描述，和我的理想有些偏差，个人还是更喜欢富有挑战，有技术的工作。如果短期难以通过工作进步，那就需要在业余时间内提升自己了。这段时间焦虑，在社区中看到了很多人，有高学历的大佬，也有普通学历靠努力逆袭的牛人。我想不应该再抱怨环境了，打铁还需自身硬，拥有实力才能拥有把我机会的权力。<br>
